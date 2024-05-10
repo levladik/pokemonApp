@@ -2,6 +2,7 @@
   "name": "pokemonapp",
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
+  "orientation": "default",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
